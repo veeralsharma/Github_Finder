@@ -1,0 +1,14 @@
+.App-logo{
+    height: 110px;
+    width: 250px;
+    margin: 20px;
+}
+
+.main-app-div{
+    padding: 20px;
+}
+
+
+body{
+    background-image:url("https://www.transparenttextures.com/patterns/black-thread.png");
+}
